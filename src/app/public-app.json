@@ -14,17 +14,5 @@
     "documentationUrl": "https://example.com/docs",
     "supportUrl": "https://example.com/support",
     "supportPhone": "+18005555555"
-  },
-  "extensions": {
-    "crm": {
-      "cards": [
-        {
-          "file": "./extensions/example-card.json"
-        }
-      ]
-    }
-  },
-  "webhooks": {
-    "file": "./webhooks/webhooks.json"
   }
 }
