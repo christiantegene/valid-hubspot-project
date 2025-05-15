@@ -1,5 +1,5 @@
 {
     "name": "valid-hubspot-project",
-    "srcDir": "valid-hubspot-project",
+    "srcDir": "src",
     "platformVersion": "2025.1"
   }
