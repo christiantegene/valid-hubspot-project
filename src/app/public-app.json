@@ -1,5 +1,5 @@
 {
-  "name": "Valid",
+  "name": "Valid App",
   "uid": "valid",
   "description": "An example to demonstrate how to build a public app with developer projects.",
   "allowedUrls": ["https://api.example.com"],
